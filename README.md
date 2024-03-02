@@ -1,5 +1,7 @@
 # flutter_intermediate_story_app
 
+Dicoding Submission Flutter Intermediate
+
 A new Flutter project.
 
 ## Getting Started
